@@ -5,9 +5,9 @@ to initialize the git
 2. to show which file is not added to git / staging area == git status
 3. add / push the file == git add fileName //or// add all == git add .
 4. remove file == git rm fileName
-5. adding commit // when file modify == git commit -m "message"
+5. adding commit == git commit -m "message"
 6. to read the recent commit == git log 
-7. 
+7. when file modify first == git add then == git commit -m "message"
 
 
 
