@@ -11,6 +11,11 @@ to initialize the git
 8. check the diff in added and modified file == git diff fileName
 9. to restore the last saved file data == git checkout fileName
 
+10. link the github with the local directory to push the code == git remote add origin (repo url)
+11. git branch -M main
+12. now push the code == git push -u origin main
+
+
 
 
 
