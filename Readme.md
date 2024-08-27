@@ -15,6 +15,11 @@ to initialize the git
 11. git branch -M main
 12. now push the code == git push -u origin main
 
+13. add a clone repo to local == git clone (url)
+
+14. create a new branch in local repo == git branch branchName
+15. read the existing branches == git branch
+16. switching b/w branches == git checkout branchName
 
 
 
