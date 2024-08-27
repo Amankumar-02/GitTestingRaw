@@ -22,7 +22,7 @@ to initialize the git
 16. switching b/w branches == git checkout branchName
 
 17. merge the branches == inside main branch code == git merge branchName
-
+18. add only branch to remote repo == same previous steps with newBranch == git push -u origin branchName
 
 
 
