@@ -21,6 +21,9 @@ to initialize the git
 15. read the existing branches == git branch
 16. switching b/w branches == git checkout branchName
 
+17. merge the branches == inside main branch code == git merge branchName
+
+
 
 
 
