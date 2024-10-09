@@ -1,5 +1,7 @@
+to open vs code from file explorer ==> top search cmd ==> code .
+
 to initialize the git
--- to open a file ==> code fileName
+-- to open/run a file ==> code fileName
 
 1. inside the directory initialize the git local repo == git init
 2. to show which file is not added to git / staging area == git status
